@@ -5,7 +5,7 @@
 
 If you want to show some data with a visual funnel chart you can you use SHFunnelChart easily.
 
-![Demo](https://github.com/shayan77/SHFunnelChart/blob/master/Screen%20Shot%202020-04-10%20at%201.15.27%20PM.png)
+![Demo](https://github.com/shayan77/SHFunnelChart/blob/master/Funnel.png)
 
 ## Features
 
