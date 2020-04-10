@@ -1,12 +1,11 @@
 # SHFunnelChart
 
-![](https://img.shields.io/badge/Swift-5.2-blue.svg?style=flat)
+![](https://img.shields.io/badge/Swift-5.1-blue.svg?style=flat)
 [![License](https://img.shields.io/cocoapods/l/BetterSegmentedControl.svg?style=flat)](http://cocoapods.org/pods/BetterSegmentedControl)
-[![Platform](https://img.shields.io/cocoapods/p/BetterSegmentedControl.svg?style=flat)](http://cocoapods.org/pods/BetterSegmentedControl)
 
 If you want to show some data with a visual funnel chart you can you use SHFunnelChart easily.
 
-![Demo](https://github.com/shayan77/SHSegmentedControl/blob/master/demo.gif)
+![Demo](https://github.com/shayan77/SHFunnelChart/blob/master/Screen%20Shot%202020-04-10%20at%201.15.27%20PM.png)
 
 ## Features
 
@@ -27,7 +26,7 @@ it, simply go to Xcode under `File > Swift Packages > Add Package Dependency...`
 
 ### Manually
 
-If you prefer not to use SPM or CocoaPods, you can integrate SHSegmentedControl into your project manually.
+If you prefer not to use SPM, you can integrate SHSegmentedControl into your project manually.
 
 ## Usage
 
